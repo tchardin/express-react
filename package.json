@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tchardin/express-react#readme",
   "dependencies": {
+    "ejs": "^2.5.6",
     "express": "^4.15.3",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
